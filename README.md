@@ -2,14 +2,6 @@
 
 Este projeto tem como objetivo modelar e gerenciar um sistema de veículos, abrangendo desde automóveis até bicicletas e skates. A aplicação utiliza o Java e o framework JPA/Hibernate para persistir os dados em um banco de dados relacional.
 
-### 👀Visão Geral
-O sistema permite:
-
-*Cadastro*: de diversos tipos de veículos, cada um com suas características específicas.
-*Consulta*: de informações detalhadas sobre cada veículo.
-*Atualização*: de dados de veículos existentes.
-*Remoção*: de veículos cadastrados.
-
 ## ⚒️Arquitetura
 Java: Linguagem de programação principal.
 JPA/Hibernate: Framework de persistência de objetos para interação com o banco de dados.
@@ -30,7 +22,7 @@ IDE: Eclipse (ou outra IDE de sua preferência)
 
 **Skate**: Extende Veiculo e adiciona atributos específicos para skates, como tipo de roda.
 
-**Main**: Classe responsável por realizar as operações de persistência no banco de dados (CRUD).
+**Main**: Classe responsável por realizar as operações de persistência no banco de dados.
 
 
 ## 🔎Pré-requisitos

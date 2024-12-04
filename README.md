@@ -36,16 +36,24 @@ IDE: Eclipse (ou outra IDE de sua preferência)
 ## 🔎Pré-requisitos
 
 Java Development Kit (JDK): Versão [especificar a versão]. 
+
 Baixe em https://www.oracle.com/java/technologies/downloads/
+
 Ambiente de desenvolvimento: Eclipse (https://www.eclipse.org/) ou IntelliJ IDEA (https://www.jetbrains.com/idea/)
+
 Banco de dados: [Especificar o banco de dados e a versão, e.g., MySQL 8.0]
+
 Driver JDBC: Para conectar ao banco de dados (especificar o driver necessário).
 
 ## ⚙️Instalação e Configuração
 Clone o repositório: Se o projeto estiver em um repositório Git, clone-o para sua máquina local.
+
 Configure o banco de dados: Crie um banco de dados e as tabelas correspondentes às classes do projeto.
+
 Configure o arquivo persistence.xml: Defina as propriedades de conexão com o banco de dados.
+
 Importe o projeto: Importe o projeto para sua IDE preferida.
+
 Execute a aplicação: Execute a classe principal do projeto para iniciar a aplicação.
 
 
@@ -67,11 +75,5 @@ file:///C:/Users/felip/eclipse-workspace/SISTEMA_VEICULOS/doc/index.html
 ## ✒️Autores
 Felipe Bonfim: Desenvolvimento inicial - Criação da estrutura básica do projeto.
 [Adicionar outros autores]
-Observações:
 
-Detalhes do banco de dados: Adicione informações mais detalhadas sobre o banco de dados utilizado, como nome do banco, usuário, senha e esquema.
-Diagrama de classes: Considere incluir um diagrama de classes UML para visualizar melhor a hierarquia e os relacionamentos entre as classes.
-Documentação adicional: Inclua mais detalhes sobre a implementação de cada classe e método, especialmente sobre a lógica de negócio.
-Testes: Mencione se há testes unitários e de integração para garantir a qualidade do código.
-Logs: Explique como configurar os logs para acompanhar o funcionamento da aplicação.
-Contribuições: Seja mais específico sobre os tipos de contribuições que você aceita (novas funcionalidades, correções de bugs, melhorias de performance, etc.)
+

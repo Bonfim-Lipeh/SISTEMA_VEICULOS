@@ -6,7 +6,7 @@ import javax.persistence.Entity;
 import javax.persistence.Table;
 
 @Entity
-@Table(name="automovel")
+@DiscriminatorValue("automovel")
 public class Automovel extends Veiculo {
 
     private int passagMax;

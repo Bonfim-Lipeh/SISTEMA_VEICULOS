@@ -5,7 +5,7 @@ Este projeto tem como objetivo modelar e gerenciar um sistema de veículos, abra
 ## ⚒️Arquitetura
 Java: Linguagem de programação principal.
 JPA/Hibernate: Framework de persistência de objetos para interação com o banco de dados.
-Banco de dados: [Especificar o banco de dados utilizado, e.g., MySQL, PostgreSQL]
+Banco de dados: SQL Server
 IDE: Eclipse (ou outra IDE de sua preferência)
 
 ## 🤹Classes Principais

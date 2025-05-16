@@ -5,7 +5,7 @@ Este projeto tem como objetivo modelar e gerenciar um sistema de veículos, abra
 ## ⚒️Arquitetura
 Java: Linguagem de programação principal.
 JPA/Hibernate: Framework de persistência de objetos para interação com o banco de dados.
-Banco de dados: SQL Server
+Banco de dados: SQL Server 
 IDE: Eclipse (ou outra IDE de sua preferência)
 
 ## 🤹Classes Principais
@@ -56,8 +56,6 @@ Fork este repositório.
 Crie um novo branch para sua feature.
 Faça suas alterações e commit.
 Envie um pull request.
-Licença
-Este projeto está licenciado sob a licença [especificar a licença, e.g., MIT].
 
 ## Documentação:
 file:///C:/Users/felip/eclipse-workspace/SISTEMA_VEICULOS/doc/index.html
@@ -66,6 +64,6 @@ file:///C:/Users/felip/eclipse-workspace/SISTEMA_VEICULOS/doc/index.html
 
 ## ✒️Autores
 Felipe Bonfim: Desenvolvimento inicial - Criação da estrutura básica do projeto.
-[Adicionar outros autores]
+
 
 
